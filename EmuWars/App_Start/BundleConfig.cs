@@ -28,7 +28,7 @@ namespace EmuWars
                       "~/Content/site.css"));
 
             bundles.Add(new StyleBundle("~/Content/sass").Include(
-                        "~/Content/StyleSheet1.css"));
+                        "~/Content/SassSample.css"));
         }
     }
 }
